@@ -1,3 +1,1 @@
-test123name
-123nametest
-fuxnames
+return {"Bangbangbang_l", "Ihatedemire", "testname123"}
